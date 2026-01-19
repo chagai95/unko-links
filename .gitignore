@@ -1,0 +1,4 @@
+venv/
+bot_debug.log
+.env
+
